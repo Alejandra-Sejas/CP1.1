@@ -1,1 +1,4 @@
-/***** My new Master File Edition *********/
+<<<<<<< HEAD
+/* My File Edition Two */
+
+>>>>>>> branchOne
